@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50051057227",
+    "firebase_url": "https://pagoualugou.firebaseio.com",
+    "project_id": "pagoualugou",
+    "storage_bucket": "pagoualugou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50051057227:android:64bb328c72f6db33",
+        "android_client_info": {
+          "package_name": "br.com.fundatec.pagoualugou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50051057227-n1ik1th2k0bpi0ckejpg4r5gd02l21uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fundatec.pagoualugou",
+            "certificate_hash": "5695052d6bca5fd748271124b162ad7e24cf2ec3"
+          }
+        },
+        {
+          "client_id": "50051057227-7i8aq5nckngfv5vhktol7cli7hmu529k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6e7FjDOmZBE13hIAp6ma061PiBG9zXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50051057227-7i8aq5nckngfv5vhktol7cli7hmu529k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
